@@ -1,5 +1,6 @@
 # Sales-Dashboard-using-excel
 📊 Sales Performance Dashboard – Power BI
+
 📌 Overview
 
 An interactive Power BI dashboard that analyzes sales executive performance across multiple cities. It tracks total sales, target achievement %, and gap from target to support performance evaluation.
@@ -31,4 +32,5 @@ Data Modeling
 Sales Executive, City, Total Sales, Target, Target Hit %, Away From Target %
 
 Author: Gaurav Kakde
+
 Data Analyst | Power BI | SQL | Python
